@@ -18,7 +18,7 @@ JDBC: Java Database Connectivity for integrating MySQL with the Java application
 Installation
 Clone the Repository:
 
-git clone https://github.com/AdarshCodes1221/Payroll-Management-System.git
+git clone https://github.com/Pratikchy/Payroll-Management-System/tree/main
 Set up MySQL Database:
 
 Create a MySQL database.
