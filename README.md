@@ -75,4 +75,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Screenshot 2025-04-16 221725 Screenshot 2025-04-16 221702 Screenshot 2025-04-16 221643 Screenshot 2025-04-16 221627 Screenshot 2025-04-16 221611 Screenshot 2025-04-16 221557 Screenshot 2025-04-16 221541 Screenshot 2025-04-16 221515 Screenshot 2025-04-16 221333 Screenshot 2025-04-16 221249
+
